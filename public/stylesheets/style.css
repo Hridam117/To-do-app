@@ -4,9 +4,9 @@
     box-sizing: border-box;
 }
 
-body {
-    background: #e27442;
-}
+ body {
+    background: #2f8cb1;
+} 
 
 .todo-container {
     color: white;
@@ -29,7 +29,7 @@ body {
 
 .todo-container h2 {
     padding: 10px;
-    font-family: 'Candal', sans-serif;
+    font-family: 'Sniglet', cursive;
     font-size: 2em;
 }
 
@@ -60,7 +60,7 @@ body {
     margin-top: 10px;
     border: none;
     border-radius: 5px;
-    font-family: 'Candal', sans-serif;
+    font-family: 'Kalam', cursive;
     background: rgba(0, 0, 0, 0.3);
     display: flex;
     flex-direction: row;
@@ -76,7 +76,7 @@ body {
     margin-right: 20px;
     border: none;
     border-radius: 5px;
-    font-family: 'Candal', sans-serif;
+    font-family: 'Kalam', cursive;
 }
 
 .todo-list-item button {
